@@ -1,0 +1,17 @@
+me.desht.sensibletoolbox
+me.desht.sensibletoolbox.api
+me.desht.sensibletoolbox.blocks
+me.desht.sensibletoolbox.blocks.machines
+me.desht.sensibletoolbox.commands
+me.desht.sensibletoolbox.enderstorage
+me.desht.sensibletoolbox.energynet
+me.desht.sensibletoolbox.gui
+me.desht.sensibletoolbox.items
+me.desht.sensibletoolbox.items.components
+me.desht.sensibletoolbox.items.energycells
+me.desht.sensibletoolbox.items.itemroutermodules
+me.desht.sensibletoolbox.items.machineupgrades
+me.desht.sensibletoolbox.listeners
+me.desht.sensibletoolbox.recipes
+me.desht.sensibletoolbox.storage
+me.desht.sensibletoolbox.util
