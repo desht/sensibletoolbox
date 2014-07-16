@@ -1,6 +1,7 @@
 me.desht.sensibletoolbox
 me.desht.sensibletoolbox.api
 me.desht.sensibletoolbox.api.gui
+me.desht.sensibletoolbox.api.recipes
 me.desht.sensibletoolbox.api.util
 me.desht.sensibletoolbox.blocks
 me.desht.sensibletoolbox.blocks.machines
@@ -8,7 +9,6 @@ me.desht.sensibletoolbox.commands
 me.desht.sensibletoolbox.core
 me.desht.sensibletoolbox.core.enderstorage
 me.desht.sensibletoolbox.core.energy
-me.desht.sensibletoolbox.core.recipes
 me.desht.sensibletoolbox.core.storage
 me.desht.sensibletoolbox.gui
 me.desht.sensibletoolbox.items
